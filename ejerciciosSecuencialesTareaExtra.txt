@@ -1,0 +1,22 @@
+Los datos que no se conozcan deben ser solicitados al usuario.
+
+1. Realizar un algoritmo que sume dos números. El programa deberá solicitar el ingreso de los números y
+mostrar el resultado obtenido.
+
+2. Realizar un algoritmo que permita calcular la superficie de un triángulo. El programa deberá solicitar el
+ingreso de la base y la altura y mostrar el resultado obtenido.
+
+3. Realizar un algoritmo que ingresando el año actual y el año de nacimiento de una persona, permita
+conocer la edad.
+
+4. Realizar un programa que solicite al usuario el ingreso de un número e informe la tercera parte de dicho
+número.
+
+5. Realizar un programa que solicite el ingreso de cinco números. El programa deberá calcular e informar
+la suma y el promedio de los mismos.
+
+6. Diseñar un algoritmo que convierta de pesos a dólares. El programa pedirá la cantidad en pesos y luego
+dirá la cantidad en dólares.
+
+7. Realizar un programa que calcule el nuevo sueldo de un empleado, sabiendo que obtuvo un incremento
+del 30%
